@@ -1,0 +1,251 @@
+Age,Annual Income,Spending Score,Gender,Location,Family Size,Occupation,Education
+56,72642,13,Female,Rural,3,Engineer,High School
+46,45151,94,Male,Rural,3,Clerk,Undergraduate
+32,81407,4,Female,Rural,6,Teacher,PhD
+25,96690,34,Male,Urban,1,Teacher,PhD
+38,34499,86,Female,Urban,4,Technician,Graduate
+56,36295,92,Male,Urban,6,Engineer,Undergraduate
+36,89040,74,Male,Urban,5,Technician,Graduate
+40,42183,17,Female,Urban,1,Manager,Undergraduate
+28,59299,75,Male,Urban,1,Technician,Graduate
+28,42874,8,Male,Urban,5,Doctor,PhD
+41,62711,73,Male,Urban,3,Technician,PhD
+53,35539,57,Male,Rural,6,Doctor,High School
+57,83351,16,Male,Rural,2,Clerk,Graduate
+41,91267,6,Male,Urban,4,Artist,Master
+20,78354,45,Female,Urban,2,Teacher,High School
+39,32557,12,Male,Rural,5,Doctor,Graduate
+19,68360,39,Male,Urban,1,Engineer,Graduate
+41,32200,41,Female,Urban,1,Technician,High School
+47,98497,8,Female,Urban,4,Doctor,PhD
+55,76975,49,Female,Rural,1,Engineer,Graduate
+19,51357,26,Female,Rural,1,Artist,PhD
+38,32869,65,Female,Rural,4,Artist,High School
+50,91135,4,Female,Rural,6,Technician,PhD
+29,80108,28,Female,Rural,6,Manager,Undergraduate
+39,68467,36,Male,Urban,4,Technician,Master
+42,53328,37,Male,Rural,5,Clerk,Graduate
+44,33987,82,Female,Urban,1,Doctor,Master
+59,88871,7,Male,Urban,1,Teacher,PhD
+45,52399,64,Male,Rural,5,Manager,Graduate
+33,76214,85,Male,Rural,6,Technician,PhD
+32,74064,16,Female,Urban,3,Engineer,Undergraduate
+20,70818,70,Female,Urban,3,Manager,High School
+54,75525,88,Male,Urban,3,Doctor,Graduate
+24,49830,44,Female,Rural,6,Manager,Undergraduate
+38,47429,3,Male,Rural,6,Doctor,Undergraduate
+26,36893,35,Male,Rural,5,Technician,Graduate
+56,77333,69,Male,Rural,1,Doctor,PhD
+35,33436,30,Male,Rural,5,Manager,Undergraduate
+21,35895,18,Female,Urban,5,Engineer,Master
+42,49738,60,Female,Rural,6,Artist,Undergraduate
+31,60746,53,Female,Urban,3,Manager,PhD
+26,79377,38,Male,Urban,2,Doctor,PhD
+43,78404,90,Female,Urban,1,Artist,Master
+19,84045,73,Male,Rural,6,Doctor,Undergraduate
+37,69790,89,Female,Rural,3,Engineer,PhD
+45,35600,18,Male,Rural,2,Doctor,Graduate
+24,70764,38,Male,Urban,2,Technician,High School
+25,75714,66,Male,Urban,6,Teacher,High School
+52,86835,44,Female,Urban,4,Manager,High School
+31,86491,12,Female,Urban,1,Teacher,Undergraduate
+34,48589,91,Female,Urban,2,Doctor,Master
+53,73484,57,Female,Urban,6,Engineer,PhD
+57,66212,19,Male,Rural,6,Manager,Graduate
+21,73525,91,Female,Rural,3,Doctor,Graduate
+19,77202,71,Female,Rural,4,Artist,Undergraduate
+23,62635,60,Male,Rural,1,Clerk,High School
+59,93208,38,Male,Urban,5,Doctor,Undergraduate
+21,63828,0,Male,Urban,3,Teacher,Master
+46,48711,2,Female,Rural,2,Manager,Master
+35,33420,76,Male,Urban,2,Teacher,PhD
+43,30301,91,Male,Rural,3,Manager,PhD
+51,75236,61,Male,Rural,6,Doctor,Master
+27,96235,62,Female,Rural,2,Technician,Master
+53,84240,24,Male,Urban,4,Artist,Master
+31,95726,55,Female,Rural,1,Doctor,Undergraduate
+48,40492,32,Female,Rural,4,Teacher,Master
+32,36102,37,Male,Rural,2,Clerk,Graduate
+25,80336,5,Male,Urban,5,Clerk,High School
+31,56641,57,Female,Urban,1,Engineer,Master
+40,64584,43,Male,Rural,1,Manager,High School
+57,62745,44,Male,Urban,3,Teacher,Undergraduate
+38,53093,31,Female,Urban,3,Engineer,High School
+33,96105,44,Female,Urban,5,Teacher,Undergraduate
+35,81885,60,Male,Urban,6,Manager,Graduate
+41,66631,46,Female,Urban,1,Doctor,Undergraduate
+43,34014,20,Male,Urban,5,Doctor,Undergraduate
+42,41093,79,Male,Urban,3,Clerk,PhD
+58,48070,84,Male,Urban,3,Doctor,Master
+46,65777,74,Female,Urban,1,Doctor,Master
+32,86958,100,Male,Urban,4,Technician,Graduate
+18,40729,35,Male,Rural,2,Clerk,Graduate
+42,75017,98,Male,Rural,3,Engineer,Master
+24,96320,18,Female,Urban,6,Artist,PhD
+26,57751,19,Female,Rural,6,Technician,Master
+41,84748,56,Female,Rural,3,Engineer,PhD
+18,35801,17,Female,Urban,4,Manager,Graduate
+25,49190,46,Female,Urban,4,Technician,High School
+41,79689,48,Male,Urban,5,Engineer,Graduate
+28,80993,13,Female,Rural,6,Manager,Graduate
+34,59592,14,Female,Rural,5,Clerk,Undergraduate
+25,40647,30,Female,Urban,6,Artist,Undergraduate
+52,38716,0,Male,Urban,2,Manager,Undergraduate
+52,32368,53,Female,Urban,2,Doctor,Undergraduate
+50,36655,2,Female,Rural,1,Teacher,PhD
+22,85766,15,Male,Rural,5,Manager,Master
+59,43403,86,Female,Rural,3,Manager,High School
+56,62097,56,Male,Rural,5,Artist,Graduate
+58,40966,74,Male,Urban,3,Teacher,PhD
+45,82921,11,Male,Urban,4,Doctor,High School
+24,79726,73,Male,Urban,5,Engineer,PhD
+26,80300,95,Male,Urban,4,Engineer,PhD
+25,52677,15,Female,Rural,2,Manager,Graduate
+29,85609,71,Male,Rural,2,Teacher,Master
+51,86661,75,Male,Urban,1,Teacher,Undergraduate
+50,61024,23,Female,Urban,5,Doctor,Master
+40,83006,27,Male,Rural,4,Artist,Graduate
+41,45338,7,Female,Urban,3,Clerk,Graduate
+54,98027,91,Female,Rural,2,Engineer,Graduate
+52,49508,35,Female,Urban,2,Artist,High School
+57,33051,89,Male,Urban,3,Technician,Master
+39,78747,7,Male,Urban,4,Engineer,Master
+44,84021,57,Male,Urban,4,Artist,PhD
+52,96412,59,Female,Urban,5,Engineer,PhD
+18,88335,49,Male,Urban,5,Clerk,PhD
+52,86179,27,Male,Urban,6,Technician,Graduate
+54,62093,91,Male,Rural,6,Clerk,Master
+31,99678,100,Female,Rural,1,Doctor,Graduate
+20,69734,40,Female,Rural,2,Technician,High School
+18,47019,99,Male,Rural,5,Manager,PhD
+22,58251,63,Male,Rural,4,Artist,Graduate
+43,55945,26,Male,Urban,3,Technician,Graduate
+31,62217,62,Male,Urban,4,Doctor,High School
+56,38308,16,Female,Rural,2,Doctor,Undergraduate
+44,35949,72,Female,Urban,6,Clerk,Master
+26,81990,32,Female,Rural,4,Engineer,Undergraduate
+32,31150,83,Female,Rural,1,Technician,PhD
+32,96617,76,Male,Urban,2,Artist,Graduate
+43,46896,91,Male,Urban,6,Technician,High School
+59,76175,28,Male,Urban,3,Teacher,High School
+30,37805,12,Female,Rural,6,Engineer,Master
+49,35237,45,Male,Urban,1,Artist,Undergraduate
+56,50056,34,Female,Rural,2,Artist,Master
+49,75543,5,Female,Rural,3,Manager,Graduate
+21,86556,81,Male,Rural,1,Clerk,Master
+47,33343,68,Male,Urban,6,Manager,High School
+54,43500,46,Male,Urban,1,Artist,High School
+40,83222,24,Female,Rural,2,Engineer,PhD
+56,59375,65,Male,Urban,5,Technician,PhD
+32,39662,9,Female,Urban,1,Technician,Graduate
+46,46964,55,Male,Urban,1,Engineer,Undergraduate
+53,89638,29,Female,Rural,6,Artist,Master
+30,97215,4,Female,Rural,6,Doctor,Graduate
+49,99042,32,Male,Urban,3,Technician,PhD
+24,43284,64,Female,Rural,6,Doctor,Master
+39,91389,17,Female,Urban,4,Technician,PhD
+45,39435,95,Male,Urban,2,Technician,Master
+19,84340,48,Female,Urban,2,Clerk,Undergraduate
+59,74078,10,Male,Urban,5,Clerk,Graduate
+23,81293,84,Female,Rural,5,Teacher,Master
+45,90403,25,Male,Rural,2,Manager,High School
+45,59124,62,Male,Rural,5,Engineer,High School
+37,73919,88,Female,Urban,3,Engineer,Master
+47,65247,85,Female,Urban,6,Engineer,Master
+28,92752,58,Female,Urban,2,Teacher,Master
+45,86573,26,Female,Rural,5,Clerk,High School
+42,89101,48,Female,Urban,2,Artist,High School
+56,56646,76,Male,Rural,4,Doctor,Master
+50,53049,32,Female,Rural,1,Doctor,PhD
+18,98385,97,Male,Rural,6,Artist,PhD
+44,70158,98,Male,Rural,2,Teacher,Undergraduate
+30,95417,0,Female,Rural,1,Artist,Graduate
+58,53289,20,Male,Rural,5,Engineer,PhD
+20,39823,54,Male,Urban,1,Manager,High School
+56,90160,5,Male,Urban,6,Technician,PhD
+23,71975,91,Male,Rural,2,Doctor,Undergraduate
+25,39540,80,Female,Rural,4,Clerk,Undergraduate
+44,46364,68,Male,Urban,5,Clerk,Graduate
+26,34611,94,Female,Rural,2,Teacher,PhD
+54,57663,4,Female,Rural,6,Clerk,High School
+50,81991,2,Male,Urban,5,Engineer,High School
+59,87679,52,Female,Rural,3,Doctor,Master
+41,60977,22,Female,Rural,1,Artist,High School
+32,79115,100,Female,Rural,6,Engineer,Graduate
+49,90890,52,Male,Urban,3,Teacher,Graduate
+49,96387,36,Female,Urban,2,Engineer,High School
+41,48071,73,Female,Urban,4,Artist,High School
+58,89275,73,Female,Rural,5,Manager,Master
+29,41938,82,Male,Rural,1,Teacher,High School
+56,65195,16,Female,Urban,5,Manager,Master
+19,34000,84,Male,Rural,2,Technician,Master
+20,68304,77,Male,Rural,5,Manager,High School
+54,99449,72,Male,Rural,1,Technician,Undergraduate
+34,50764,0,Male,Rural,2,Technician,Undergraduate
+19,68494,50,Male,Rural,5,Manager,Master
+19,33373,44,Male,Urban,4,Teacher,High School
+45,42161,76,Female,Rural,6,Artist,Undergraduate
+40,57350,3,Male,Urban,2,Engineer,High School
+54,55351,61,Female,Rural,6,Engineer,High School
+49,45305,64,Female,Urban,2,Artist,High School
+50,95953,31,Male,Rural,4,Doctor,PhD
+18,87458,33,Female,Urban,6,Doctor,High School
+36,50358,91,Female,Rural,3,Technician,PhD
+19,33267,94,Female,Urban,1,Technician,Master
+43,68513,71,Female,Rural,3,Teacher,Undergraduate
+49,56092,38,Male,Urban,5,Clerk,Undergraduate
+23,41338,25,Female,Rural,4,Manager,Undergraduate
+49,30412,33,Male,Urban,3,Technician,Undergraduate
+21,37543,53,Female,Urban,2,Engineer,Undergraduate
+28,63496,2,Female,Rural,5,Teacher,Undergraduate
+34,90692,49,Male,Rural,5,Manager,Undergraduate
+55,74425,11,Female,Urban,3,Teacher,Master
+41,68756,64,Female,Rural,3,Manager,High School
+22,48888,53,Female,Urban,4,Manager,Graduate
+51,65735,4,Male,Urban,1,Artist,PhD
+23,77295,93,Female,Urban,3,Technician,Graduate
+39,47955,93,Male,Rural,3,Teacher,Graduate
+28,67841,56,Female,Urban,6,Teacher,High School
+33,95510,16,Male,Urban,2,Artist,High School
+50,64911,46,Male,Rural,6,Engineer,High School
+26,89031,22,Female,Rural,6,Engineer,Undergraduate
+23,37357,78,Female,Rural,5,Doctor,Master
+33,62479,100,Male,Rural,1,Technician,Undergraduate
+46,91476,84,Male,Urban,2,Technician,Master
+20,74811,13,Female,Urban,4,Clerk,Master
+37,66208,65,Male,Urban,4,Artist,Graduate
+53,50150,74,Female,Urban,3,Engineer,Graduate
+36,73286,50,Female,Rural,3,Manager,Master
+43,98450,37,Female,Urban,4,Teacher,Master
+20,51352,63,Female,Urban,3,Technician,Undergraduate
+36,85069,97,Male,Rural,1,Teacher,Undergraduate
+37,44397,37,Female,Urban,6,Teacher,Graduate
+49,71555,49,Male,Urban,3,Clerk,High School
+24,76959,97,Female,Urban,5,Engineer,Master
+58,30728,81,Male,Urban,3,Technician,Undergraduate
+50,80517,29,Female,Urban,2,Teacher,Graduate
+57,96234,78,Male,Urban,1,Technician,Undergraduate
+56,69954,90,Male,Rural,2,Manager,Master
+35,77280,50,Female,Rural,2,Clerk,Master
+57,46779,62,Female,Urban,5,Manager,PhD
+18,93932,97,Female,Urban,1,Technician,High School
+28,54466,51,Female,Rural,1,Doctor,PhD
+45,66939,37,Male,Urban,1,Technician,Graduate
+42,99896,96,Female,Urban,1,Engineer,Undergraduate
+40,65270,87,Male,Urban,1,Teacher,Graduate
+48,89163,78,Male,Rural,5,Teacher,Master
+47,81934,29,Female,Urban,3,Manager,PhD
+59,94895,50,Male,Rural,2,Clerk,PhD
+52,62307,80,Male,Urban,1,Doctor,PhD
+24,84098,4,Male,Rural,3,Artist,Graduate
+33,90921,28,Male,Rural,3,Teacher,Master
+43,35486,3,Female,Urban,2,Engineer,Undergraduate
+19,38335,9,Female,Rural,5,Manager,Undergraduate
+18,41130,55,Female,Urban,4,Manager,Graduate
+29,90566,16,Female,Rural,4,Artist,PhD
+22,96703,73,Male,Urban,3,Engineer,High School
+54,57192,16,Male,Urban,6,Clerk,Graduate
+49,31062,83,Female,Rural,6,Engineer,Graduate
+26,51545,87,Female,Urban,2,Clerk,Master
+58,51689,68,Female,Urban,4,Engineer,Undergraduate
+52,41174,33,Male,Rural,3,Engineer,Graduate
